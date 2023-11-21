@@ -5979,7 +5979,7 @@
 
 ### general machine learning (i.e., none of the above)
 | Title                                                                                                                                                | Rating             |   Average | Link                                       |
-|:-------:----------:------------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:----------:|:-------------------------------------------|
 | The mechanistic basis of data dependence and abrupt learning in an in-context classification task                                                    | [10, 10, 8, 5]     |      8.25 | https://openreview.net/forum?id=aN4Jf6Cx69 |
 | Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization                                                                       | [8, 8, 8]          |      8    | https://openreview.net/forum?id=cc8h3I3V4E |
 | Dynamic Discounted Counterfactual Regret Minimization                                                                                                | [8, 8, 8, 8]       |      8    | https://openreview.net/forum?id=6PbvbLyqT6 |
