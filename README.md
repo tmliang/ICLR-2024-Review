@@ -2,7 +2,7 @@
 
 ### applications to neuroscience & cognitive science
 | Title                                                                                                                                                  | Rating           |   Average | Link                                       |
-|:-------:----------:--------------------------------------------------------------------------------------------------------------------------------------|:-------:----------:|:----------:|:-------:----------:--------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:----------:|:-------------------------------------------|
 | Turning large language models into cognitive models                                                                                                    | [8, 8, 8, 8]     |      8    | https://openreview.net/forum?id=eiC4BKypf1 |
 | Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI                                                                 | [6, 8, 8]        |      7.33 | https://openreview.net/forum?id=QzTpTRVtrP |
 | BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity                                                                        | [6, 8, 6, 8]     |      7    | https://openreview.net/forum?id=mQYHXUUTkU |
