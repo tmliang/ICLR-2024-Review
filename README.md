@@ -2,7 +2,7 @@
 
 ### applications to neuroscience & cognitive science
 | Title                                                                                                                                                  | Rating           |   Average | Link                                       |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------|----------:|:-------------------------------------------|
+|:-------:----------:--------------------------------------------------------------------------------------------------------------------------------------|:-------:----------:|:----------:|:-------:----------:--------------------------|
 | Turning large language models into cognitive models                                                                                                    | [8, 8, 8, 8]     |      8    | https://openreview.net/forum?id=eiC4BKypf1 |
 | Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI                                                                 | [6, 8, 8]        |      7.33 | https://openreview.net/forum?id=QzTpTRVtrP |
 | BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity                                                                        | [6, 8, 6, 8]     |      7    | https://openreview.net/forum?id=mQYHXUUTkU |
@@ -131,7 +131,7 @@
 
 ### applications to robotics, autonomy, planning
 | Title                                                                                                                                              | Rating             |   Average | Link                                       |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|----------:|:-------------------------------------------|
+|:-------:----------:----------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
 | GIM: Learning Generalizable Image Matcher From Internet Videos                                                                                     | [8, 10, 8, 6]      |      8    | https://openreview.net/forum?id=NYN1b8GRGS |
 | Differentiable Trajectory Optimization as a Policy Class for Reinforcement and Imitation Learning                                                  | [8, 5, 8, 10]      |      7.75 | https://openreview.net/forum?id=HL5P4H8eO2 |
 | GenSim: Generating Robotic Simulation Tasks via Large Language Models                                                                              | [8, 6, 8, 8]       |      7.5  | https://openreview.net/forum?id=OI3RoHoWAN |
@@ -298,7 +298,7 @@
 
 ### applications to physical sciences (physics, chemistry, biology, etc.)
 | Title                                                                                                                                                        | Rating                   |   Average | Link                                       |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|----------:|:-------------------------------------------|
+|:-------:----------:--------------------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--------|:----------:|:-------:----------:--------------------------|
 | ClimODE: Climate Forecasting With Physics-informed Neural ODEs                                                                                               | [8, 8, 8, 8]             |      8    | https://openreview.net/forum?id=xuY33XhEGR |
 | Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation                                                                               | [6, 8, 8, 8]             |      7.5  | https://openreview.net/forum?id=vrBVFXwAmi |
 | Space Group Constrained Crystal Generation                                                                                                                   | [8, 8, 6]                |      7.33 | https://openreview.net/forum?id=jkvZ7v4OmP |
@@ -591,7 +591,7 @@
 
 ### causal reasoning
 | Title                                                                                                                    | Rating          |   Average | Link                                       |
-|:-------------------------------------------------------------------------------------------------------------------------|:----------------|----------:|:-------------------------------------------|
+|:-------:----------:--------------------------------------------------------------------------------------------------------|:----------------|:----------:|:-------:----------:--------------------------|
 | Robust agents learn causal world models                                                                                  | [6, 10, 6, 8]   |      7.5  | https://openreview.net/forum?id=pOoKI3ouv1 |
 | Identifying Representations for Intervention Extrapolation                                                               | [8, 6, 8, 8]    |      7.5  | https://openreview.net/forum?id=3cuJwmPxXj |
 | A Versatile Causal Discovery Framework to Allow Causally-Related Hidden Variables                                        | [8, 8, 6, 8]    |      7.5  | https://openreview.net/forum?id=FhQSGhBlqv |
@@ -685,7 +685,7 @@
 
 ### datasets and benchmarks
 | Title                                                                                                                                    | Rating             |   Average | Link                                       |
-|:-----------------------------------------------------------------------------------------------------------------------------------------|:-------------------|----------:|:-------------------------------------------|
+|:-------:----------:------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
 | BooookScore: A systematic exploration of book-length summarization in the era of LLMs                                                    | [8, 8, 10, 8]      |      8.5  | https://openreview.net/forum?id=7Ttk3RzDeu |
 | RealChat-1M: A Large-Scale Real-World LLM Conversation Dataset                                                                           | [8, 8, 8, 6]       |      7.5  | https://openreview.net/forum?id=BOfDKxfwt0 |
 | COLLIE: Systematic Construction of Constrained Text Generation Tasks                                                                     | [10, 6, 8, 6]      |      7.5  | https://openreview.net/forum?id=kxgSlyirUZ |
@@ -941,7 +941,7 @@
 
 ### generative models
 | Title                                                                                                                                             | Rating             |   Average | Link                                       |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|----------:|:-------------------------------------------|
+|:-------:----------:---------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
 | Generalization in diffusion models arises from geometry-adaptive harmonic representation                                                          | [8, 10, 8, 8]      |      8.5  | https://openreview.net/forum?id=ANvmVS2Yr0 |
 | Self-Alignment with Instruction Backtranslation                                                                                                   | [8, 8, 8, 8]       |      8    | https://openreview.net/forum?id=1oijHJBRsT |
 | DMV3D: Denoising Multi-view Diffusion Using 3D Large Reconstruction Model                                                                         | [8, 6, 8, 10]      |      8    | https://openreview.net/forum?id=H4yQefeXhp |
@@ -1628,7 +1628,7 @@
 
 ### infrastructure, software libraries, hardware, etc.
 | Title                                                                                                                     | Rating          |   Average | Link                                       |
-|:--------------------------------------------------------------------------------------------------------------------------|:----------------|----------:|:-------------------------------------------|
+|:-------:----------:---------------------------------------------------------------------------------------------------------|:----------------|:----------:|:-------:----------:--------------------------|
 | FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning                                          | [6, 10, 8, 5]   |      7.25 | https://openreview.net/forum?id=mZn2Xyh9Ec |
 | FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores                                                 | [8, 8, 5]       |      7    | https://openreview.net/forum?id=gPKTTAfYBp |
 | SRL: Scaling Distributed Reinforcement Learning to Over Ten Thousand Cores                                                | [8, 3, 8, 8]    |      6.75 | https://openreview.net/forum?id=lajn1iROCu |
@@ -1672,7 +1672,7 @@
 
 ### learning on graphs and other geometries & topologies
 | Title                                                                                                                                   | Rating                |   Average | Link                                       |
-|:----------------------------------------------------------------------------------------------------------------------------------------|:----------------------|----------:|:-------------------------------------------|
+|:-------:----------:-----------------------------------------------------------------------------------------------------------------------|:-------:----------:-----|:----------:|:-------:----------:--------------------------|
 | Universal Graph Random Features                                                                                                         | [8, 8, 6, 8]          |      7.5  | https://openreview.net/forum?id=viftsX50Rt |
 | Flow Matching on General Geometries                                                                                                     | [8, 6, 8]             |      7.33 | https://openreview.net/forum?id=g7ohDlTITL |
 | Graph Neural Networks for Learning Equivariant Representations of Neural Networks                                                       | [6, 8, 8]             |      7.33 | https://openreview.net/forum?id=oO6FsMyDBt |
@@ -1859,7 +1859,7 @@
 
 ### learning theory
 | Title                                                                                                                                              | Rating              |   Average | Link                                       |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|----------:|:-------------------------------------------|
+|:-------:----------:----------------------------------------------------------------------------------------------------------------------------------|:-------:----------:---|:----------:|:-------:----------:--------------------------|
 | Generalization error of spectral algorithms                                                                                                        | [8, 8, 8]           |      8    | https://openreview.net/forum?id=3SJE1WLB4M |
 | Noisy Interpolation Learning with Shallow Univariate ReLU Networks                                                                                 | [8, 8, 8]           |      8    | https://openreview.net/forum?id=GTUoTJXPBf |
 | Algorithms for Caching and MTS with reduced number of predictions                                                                                  | [8, 8, 8, 8]        |      8    | https://openreview.net/forum?id=QuIiLSktO4 |
@@ -2064,7 +2064,7 @@
 
 ### metric learning, kernel learning, and sparse coding
 | Title                                                                                              | Rating          |   Average | Link                                       |
-|:---------------------------------------------------------------------------------------------------|:----------------|----------:|:-------------------------------------------|
+|:-------:----------:----------------------------------------------------------------------------------|:----------------|:----------:|:-------:----------:--------------------------|
 | Enhancing Kernel Flexibility via Learning Asymmetric Locally-Adaptive Kernels                      | [8, 5, 8]       |      7    | https://openreview.net/forum?id=D6aGz0Zyvn |
 | Neural Snowflakes: Universal Latent Graph Inference via Trainable Latent Geometries                | [8, 5, 8, 6]    |      6.75 | https://openreview.net/forum?id=djM3WzpOmK |
 | Sparsistency for inverse optimal transport                                                         | [6, 8, 8, 5]    |      6.75 | https://openreview.net/forum?id=wpXGPCBOTX |
@@ -2100,7 +2100,7 @@
 
 ### neurosymbolic & hybrid AI systems (physics-informed, logic & formal reasoning, etc.)
 | Title                                                                                                                       | Rating             |   Average | Link                                       |
-|:----------------------------------------------------------------------------------------------------------------------------|:-------------------|----------:|:-------------------------------------------|
+|:-------:----------:-----------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
 | Magnushammer: A Transformer-Based Approach to Premise Selection                                                             | [8, 8, 8, 6]       |      7.5  | https://openreview.net/forum?id=oYjPk8mqAV |
 | Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph                                   | [6, 6, 8, 8]       |      7    | https://openreview.net/forum?id=nnVO1PvbTv |
 | PINNACLE: PINN Adaptive ColLocation and Experimental points selection                                                       | [5, 6, 8, 8]       |      6.75 | https://openreview.net/forum?id=GzNaCp6Vcg |
@@ -2200,7 +2200,7 @@
 
 ### optimization
 | Title                                                                                                                                          | Rating             |   Average | Link                                       |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|----------:|:-------------------------------------------|
+|:-------:----------:------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
 | Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit                                                             | [8, 8, 6, 8]       |      7.5  | https://openreview.net/forum?id=KZJehvRKGD |
 | Deep Reinforcement Learning Guided Improvement Heuristic for Job Shop Scheduling                                                               | [6, 8, 8, 8]       |      7.5  | https://openreview.net/forum?id=jsWCmrsHHs |
 | Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training                                                           | [8, 6, 8, 8]       |      7.5  | https://openreview.net/forum?id=3xHDeA8Noi |
@@ -2496,7 +2496,7 @@
 
 ### probabilistic methods (Bayesian methods, variational inference, sampling, UQ, etc.)
 | Title                                                                                                                                             | Rating             |   Average | Link                                       |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|----------:|:-------------------------------------------|
+|:-------:----------:---------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
 | Monte Carlo guided Denoising Diffusion models for Bayesian linear inverse problems.                                                               | [10, 8, 10, 6]     |      8.5  | https://openreview.net/forum?id=nHESwXvxWK |
 | $t^3$-Variational Autoencoder: Learning Heavy-tailed Data with Student's t and Power Divergence                                                   | [8, 6, 8]          |      7.33 | https://openreview.net/forum?id=RzNlECeoOB |
 | Amortizing intractable inference in large language models                                                                                         | [3, 10, 8, 8]      |      7.25 | https://openreview.net/forum?id=Ouj6p4ca60 |
@@ -2680,7 +2680,7 @@
 
 ### reinforcement learning
 | Title                                                                                                                                              | Rating                   |   Average | Link                                       |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|----------:|:-------------------------------------------|
+|:-------:----------:----------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--------|:----------:|:-------:----------:--------------------------|
 | Privileged Sensing Scaffolds Reinforcement Learning                                                                                                | [6, 8, 8, 10]            |      8    | https://openreview.net/forum?id=EpVe8jAjdx |
 | Solving Multiobjective Combinatorial Optimization via Learn to Improve Method                                                                      | [8, 8, 8, 8]             |      8    | https://openreview.net/forum?id=le1UUMd45T |
 | Exploiting Causal Graph Priors with Posterior Sampling for Reinforcement Learning                                                                  | [8, 6, 8, 8]             |      7.5  | https://openreview.net/forum?id=M0xK8nPGvt |
@@ -3301,7 +3301,7 @@
 
 ### representation learning for computer vision, audio, language, and other modalities
 | Title                                                                                                                                              | Rating                |   Average | Link                                       |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------|----------:|:-------------------------------------------|
+|:-------:----------:----------------------------------------------------------------------------------------------------------------------------------|:-------:----------:-----|:----------:|:-------:----------:--------------------------|
 | LRM: Large Reconstruction Model for Single Image to 3D                                                                                             | [8, 8, 8, 10]         |      8.5  | https://openreview.net/forum?id=sllU8vvsFF |
 | Large Language Models are Efficient Learners of Noise-Robust Speech Recognition                                                                    | [8, 10, 6, 8]         |      8    | https://openreview.net/forum?id=ceATjGPTUD |
 | Recursive Generalization Transformer for Image Super-Resolution                                                                                    | [8, 6, 8, 8]          |      7.5  | https://openreview.net/forum?id=owziuM1nsR |
@@ -4197,7 +4197,7 @@
 
 ### societal considerations including fairness, safety, privacy
 | Title                                                                                                                                             | Rating                |   Average | Link                                       |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------|----------:|:-------------------------------------------|
+|:-------:----------:---------------------------------------------------------------------------------------------------------------------------------|:-------:----------:-----|:----------:|:-------:----------:--------------------------|
 | Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation                                                            | [8, 8, 8, 8]          |      8    | https://openreview.net/forum?id=oZtt0pRnOl |
 | An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization                                                       | [8, 8, 6, 8]          |      7.5  | https://openreview.net/forum?id=rpH9FcCEV6 |
 | Identifying the Risks of LM Agents with an LM-Emulated Sandbox                                                                                    | [8, 8, 6]             |      7.33 | https://openreview.net/forum?id=GEcwtMk1uA |
@@ -4691,7 +4691,7 @@
 
 ### transfer learning, meta learning, and lifelong learning
 | Title                                                                                                                                            | Rating                   |   Average | Link                                       |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|----------:|:-------------------------------------------|
+|:-------:----------:--------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--------|:----------:|:-------:----------:--------------------------|
 | Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction                                      | [6, 8, 10]               |      8    | https://openreview.net/forum?id=TpD2aG1h0D |
 | Exploring the Common Appearance-Boundary Adaptation for Nighttime Optical Flow                                                                   | [6, 8, 10]               |      8    | https://openreview.net/forum?id=776lhoaulC |
 | A Probabilistic Framework for Modular Continual Learning                                                                                         | [6, 8, 8, 8]             |      7.5  | https://openreview.net/forum?id=MVe2dnWPCu |
@@ -5008,7 +5008,7 @@
 
 ### unsupervised, self-supervised, semi-supervised, and supervised representation learning
 | Title                                                                                                                                            | Rating                   |   Average | Link                                       |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|----------:|:-------------------------------------------|
+|:-------:----------:--------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--------|:----------:|:-------:----------:--------------------------|
 | Deep Orthogonal Hypersphere Compression for Anomaly Detection                                                                                    | [8, 8, 8, 8]             |      8    | https://openreview.net/forum?id=cJs4oE4m9Q |
 | Topological data analysis on noisy quantum computers                                                                                             | [8, 8, 8, 8]             |      8    | https://openreview.net/forum?id=dLrhRIMVmB |
 | Multi-granularity Correspondence Learning from Noisy Instructional Videos                                                                        | [8, 8, 8, 8]             |      8    | https://openreview.net/forum?id=9Cu8MRmhq2 |
@@ -5781,7 +5781,7 @@
 
 ### visualization or interpretation of learned representations
 | Title                                                                                                                                                         | Rating             |   Average | Link                                       |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|----------:|:-------------------------------------------|
+|:-------:----------:---------------------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
 | On the Joint Interaction of Models, Data, and Features                                                                                                        | [8, 8, 6, 8]       |      7.5  | https://openreview.net/forum?id=ze7DOLi394 |
 | Overthinking the Truth: Understanding how Language Models Process False Demonstrations                                                                        | [8, 8, 6]          |      7.33 | https://openreview.net/forum?id=Tigr1kMDZy |
 | Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs                                                                  | [10, 8, 8, 3]      |      7.25 | https://openreview.net/forum?id=MO5PiKHELW |
@@ -5979,7 +5979,7 @@
 
 ### general machine learning (i.e., none of the above)
 | Title                                                                                                                                                | Rating             |   Average | Link                                       |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------|----------:|:-------------------------------------------|
+|:-------:----------:------------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
 | The mechanistic basis of data dependence and abrupt learning in an in-context classification task                                                    | [10, 10, 8, 5]     |      8.25 | https://openreview.net/forum?id=aN4Jf6Cx69 |
 | Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization                                                                       | [8, 8, 8]          |      8    | https://openreview.net/forum?id=cc8h3I3V4E |
 | Dynamic Discounted Counterfactual Regret Minimization                                                                                                | [8, 8, 8, 8]       |      8    | https://openreview.net/forum?id=6PbvbLyqT6 |
