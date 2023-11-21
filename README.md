@@ -5781,7 +5781,7 @@
 
 ### visualization or interpretation of learned representations
 | Title                                                                                                                                                         | Rating             |   Average | Link                                       |
-|:-------:----------:---------------------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:----------:|:-------------------------------------------|
 | On the Joint Interaction of Models, Data, and Features                                                                                                        | [8, 8, 6, 8]       |      7.5  | https://openreview.net/forum?id=ze7DOLi394 |
 | Overthinking the Truth: Understanding how Language Models Process False Demonstrations                                                                        | [8, 8, 6]          |      7.33 | https://openreview.net/forum?id=Tigr1kMDZy |
 | Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs                                                                  | [10, 8, 8, 3]      |      7.25 | https://openreview.net/forum?id=MO5PiKHELW |
