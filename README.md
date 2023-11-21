@@ -4691,7 +4691,7 @@
 
 ### transfer learning, meta learning, and lifelong learning
 | Title                                                                                                                                            | Rating                   |   Average | Link                                       |
-|:-------:----------:--------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--------|:----------:|:-------:----------:--------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:----------:|:-------------------------------------------|
 | Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction                                      | [6, 8, 10]               |      8    | https://openreview.net/forum?id=TpD2aG1h0D |
 | Exploring the Common Appearance-Boundary Adaptation for Nighttime Optical Flow                                                                   | [6, 8, 10]               |      8    | https://openreview.net/forum?id=776lhoaulC |
 | A Probabilistic Framework for Modular Continual Learning                                                                                         | [6, 8, 8, 8]             |      7.5  | https://openreview.net/forum?id=MVe2dnWPCu |
@@ -5008,7 +5008,7 @@
 
 ### unsupervised, self-supervised, semi-supervised, and supervised representation learning
 | Title                                                                                                                                            | Rating                   |   Average | Link                                       |
-|:-------:----------:--------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--------|:----------:|:-------:----------:--------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:----------:|:-------------------------------------------|
 | Deep Orthogonal Hypersphere Compression for Anomaly Detection                                                                                    | [8, 8, 8, 8]             |      8    | https://openreview.net/forum?id=cJs4oE4m9Q |
 | Topological data analysis on noisy quantum computers                                                                                             | [8, 8, 8, 8]             |      8    | https://openreview.net/forum?id=dLrhRIMVmB |
 | Multi-granularity Correspondence Learning from Noisy Instructional Videos                                                                        | [8, 8, 8, 8]             |      8    | https://openreview.net/forum?id=9Cu8MRmhq2 |
