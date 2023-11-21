@@ -131,7 +131,7 @@
 
 ### applications to robotics, autonomy, planning
 | Title                                                                                                                                              | Rating             |   Average | Link                                       |
-|:-------:----------:----------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:----------:|:-------------------------------------------|
 | GIM: Learning Generalizable Image Matcher From Internet Videos                                                                                     | [8, 10, 8, 6]      |      8    | https://openreview.net/forum?id=NYN1b8GRGS |
 | Differentiable Trajectory Optimization as a Policy Class for Reinforcement and Imitation Learning                                                  | [8, 5, 8, 10]      |      7.75 | https://openreview.net/forum?id=HL5P4H8eO2 |
 | GenSim: Generating Robotic Simulation Tasks via Large Language Models                                                                              | [8, 6, 8, 8]       |      7.5  | https://openreview.net/forum?id=OI3RoHoWAN |
@@ -298,7 +298,7 @@
 
 ### applications to physical sciences (physics, chemistry, biology, etc.)
 | Title                                                                                                                                                        | Rating                   |   Average | Link                                       |
-|:-------:----------:--------------------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--------|:----------:|:-------:----------:--------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:----------:|:-------------------------------------------|
 | ClimODE: Climate Forecasting With Physics-informed Neural ODEs                                                                                               | [8, 8, 8, 8]             |      8    | https://openreview.net/forum?id=xuY33XhEGR |
 | Q-TAPE: A Task-Agnostic Pre-Trained Approach for Quantum Properties Estimation                                                                               | [6, 8, 8, 8]             |      7.5  | https://openreview.net/forum?id=vrBVFXwAmi |
 | Space Group Constrained Crystal Generation                                                                                                                   | [8, 8, 6]                |      7.33 | https://openreview.net/forum?id=jkvZ7v4OmP |
@@ -591,7 +591,7 @@
 
 ### causal reasoning
 | Title                                                                                                                    | Rating          |   Average | Link                                       |
-|:-------:----------:--------------------------------------------------------------------------------------------------------|:----------------|:----------:|:-------:----------:--------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:----------:|:-------------------------------------------|
 | Robust agents learn causal world models                                                                                  | [6, 10, 6, 8]   |      7.5  | https://openreview.net/forum?id=pOoKI3ouv1 |
 | Identifying Representations for Intervention Extrapolation                                                               | [8, 6, 8, 8]    |      7.5  | https://openreview.net/forum?id=3cuJwmPxXj |
 | A Versatile Causal Discovery Framework to Allow Causally-Related Hidden Variables                                        | [8, 8, 6, 8]    |      7.5  | https://openreview.net/forum?id=FhQSGhBlqv |
@@ -685,7 +685,7 @@
 
 ### datasets and benchmarks
 | Title                                                                                                                                    | Rating             |   Average | Link                                       |
-|:-------:----------:------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:----------:|:-------------------------------------------|
 | BooookScore: A systematic exploration of book-length summarization in the era of LLMs                                                    | [8, 8, 10, 8]      |      8.5  | https://openreview.net/forum?id=7Ttk3RzDeu |
 | RealChat-1M: A Large-Scale Real-World LLM Conversation Dataset                                                                           | [8, 8, 8, 6]       |      7.5  | https://openreview.net/forum?id=BOfDKxfwt0 |
 | COLLIE: Systematic Construction of Constrained Text Generation Tasks                                                                     | [10, 6, 8, 6]      |      7.5  | https://openreview.net/forum?id=kxgSlyirUZ |
