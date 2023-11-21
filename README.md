@@ -941,7 +941,7 @@
 
 ### generative models
 | Title                                                                                                                                             | Rating             |   Average | Link                                       |
-|:-------:----------:---------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:----------:|:-------------------------------------------|
 | Generalization in diffusion models arises from geometry-adaptive harmonic representation                                                          | [8, 10, 8, 8]      |      8.5  | https://openreview.net/forum?id=ANvmVS2Yr0 |
 | Self-Alignment with Instruction Backtranslation                                                                                                   | [8, 8, 8, 8]       |      8    | https://openreview.net/forum?id=1oijHJBRsT |
 | DMV3D: Denoising Multi-view Diffusion Using 3D Large Reconstruction Model                                                                         | [8, 6, 8, 10]      |      8    | https://openreview.net/forum?id=H4yQefeXhp |
@@ -2496,7 +2496,7 @@
 
 ### probabilistic methods (Bayesian methods, variational inference, sampling, UQ, etc.)
 | Title                                                                                                                                             | Rating             |   Average | Link                                       |
-|:-------:----------:---------------------------------------------------------------------------------------------------------------------------------|:-------:----------:--|:----------:|:-------:----------:--------------------------|
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:----------:|:-------------------------------------------|
 | Monte Carlo guided Denoising Diffusion models for Bayesian linear inverse problems.                                                               | [10, 8, 10, 6]     |      8.5  | https://openreview.net/forum?id=nHESwXvxWK |
 | $t^3$-Variational Autoencoder: Learning Heavy-tailed Data with Student's t and Power Divergence                                                   | [8, 6, 8]          |      7.33 | https://openreview.net/forum?id=RzNlECeoOB |
 | Amortizing intractable inference in large language models                                                                                         | [3, 10, 8, 8]      |      7.25 | https://openreview.net/forum?id=Ouj6p4ca60 |
