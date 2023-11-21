@@ -1,6 +1,6 @@
 # ICLR-2024-Review
 
-### *applications to neuroscience & cognitive science
+### *applications to neuroscience & cognitive science*
 | Title                                                                                                                                                  | Rating           |   Average | Link                                       |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------|----------:|:-------------------------------------------|
 | Turning large language models into cognitive models                                                                                                    | [8, 8, 8, 8]     |      8    | https://openreview.net/forum?id=eiC4BKypf1 |
