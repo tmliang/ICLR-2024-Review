@@ -5,7 +5,6 @@
 - [Applications to Robotics, Autonomy, Planning](./Applications_to_Robotics,_Autonomy,_Planning.md)
 - [Causal Reasoning](./Causal_Reasoning.md)
 - [Datasets and Benchmarks](./Datasets_and_Benchmarks.md)
-- [General Machine Learning (i.e., None of the Above)](./General_Machine_Learning_(i.e.,_None_of_the_Above).md)
 - [Generative Models](./Generative_Models.md)
 - [Infrastructure, Software Libraries, Hardware, etc.](./Infrastructure,_Software_Libraries,_Hardware,_etc..md)
 - [Learning on Graphs and other Geometries & Topologies](./Learning_on_Graphs_and_other_Geometries_&_Topologies.md)
@@ -20,3 +19,4 @@
 - [Transfer Learning, Meta Learning, and Lifelong Learning](./Transfer_Learning,_Meta_Learning,_and_Lifelong_Learning.md)
 - [Unsupervised, Self-Supervised, Semi-Supervised, and Supervised Representation Learning](./Unsupervised,_Self-Supervised,_Semi-Supervised,_and_Supervised_Representation_Learning.md)
 - [Visualization or Interpretation of Learned Representations](./Visualization_or_Interpretation_of_Learned_Representations.md)
+- [General Machine Learning (i.e., None of the Above)](./General_Machine_Learning_(i.e.,_None_of_the_Above).md)
