@@ -1,6 +1,6 @@
 # ICLR 2024 Review Results
 
-- [Applications to Neuroscience & Cognitive Science](./applications_to_neuroscience_&_cognitive_science.md)
+- [Applications to Neuroscience & Cognitive Science](./applications to neuroscience & cognitive science.md)
 - [Applications to Physical Sciences (Physics, Chemistry, Biology, etc.)](./applications_to_physical_sciences_(physics,_chemistry,_biology,_etc.).md)
 - [Applications to Robotics, Autonomy, Planning](./applications_to_robotics,_autonomy,_planning.md)
 - [Causal Reasoning](./causal_reasoning.md)
